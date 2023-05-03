@@ -1,1 +1,1 @@
-# Simple UserManagement with JuJU
+# Simple UserManagement with MongoDb
